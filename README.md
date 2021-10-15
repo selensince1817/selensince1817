@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+name : Vladimir Tregubiak
+
+I have tried to find a new reinventing approach at the old idea of "agar.io" type game by implementing simple physics.
+
+
 <!--
 **selensince1817/selensince1817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
