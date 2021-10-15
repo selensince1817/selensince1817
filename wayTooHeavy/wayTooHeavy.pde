@@ -111,7 +111,7 @@ void reset() {
 
   noStroke();
   smooth();
-  noCursor();
+  
   textAlign(CENTER);
 
   crash = false;
